@@ -5,42 +5,28 @@
 <p align="center">
 	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
 ## Contents
 
-- [Platforms](#platforms)
-- [PIX Front-End Development](#pix-front-end-development)
-- [PIX Back-End Development](#pixback-end-development)
-- [Presentations] (#pix-presentations)
-- [Legal](#legal)
-- [Programming Languages](#pix-programming-languages)
+- [PIX Platforms](#platforms)
+- [PIX Front-End](#pix-front-end-development)
+- [PIX Back-End](#pixback-end-development)
+- [PIX Presentations] (#pix-presentations)
+- [PIX Legal](#legal)
 
 ## Platforms
 
 - [OpenPix](https://openpix.com.br) - PIX Payments Library
 
-## Front-End Development
+## PIX Front-End Development
 
-- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
-- [Web Tools](https://github.com/lvwzhen/tools#readme)
-
-- [Offline-First](https://github.com/pazguille/offline-first#readme)
-- [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
 
 
 
 ## Big Data
 
-
-
-## Theory
-
-- [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
-- [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
 
 ## Books
 
@@ -53,10 +39,6 @@
 - [Shell](https://github.com/alebcay/awesome-shell#readme)
 - [Fish](https://github.com/jorgebucaran/awesome-fish#readme) - User-friendly shell.
 
-## Entertainment
-
-- [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
-- [Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
 
 ## Databases
 
@@ -70,18 +52,17 @@
 ## PIX Learn
 
 - [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
-- [Learn to Program](https://github.com/karlhorky/learn-to-program#readme)
-- [Speaking](https://github.com/matteofigus/awesome-speaking#readme)
-- [Tech Videos](https://github.com/lucasviola/awesome-tech-videos#readme)
-- [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
+
 
 ## PIX Security
 
+- [Anexo IV – Manual de Segurança](https://www.bcb.gov.br/content/estabilidadefinanceira/forumpireunioes/Anexo%20IV%20-%20Manual%20de%20Seguranca%20PIX%20v2.0.pdf)
+
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
-- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
+
 
 ## Hardware
 
@@ -108,9 +89,7 @@
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
-	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
-	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
-- [Awesome](https://github.com/sindresorhus/awesome#readme) -
+- [Awesome](https://github.com/sindresorhus/awesome#readme) - The very first Awesome list
 - [Analytics](https://github.com/onurakpolat/awesome-analytics#readme)
 
 
