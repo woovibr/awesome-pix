@@ -1,15 +1,5 @@
 <div align="center">
-	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
-	<!-- <br>
-	<p>
-		<p>
-			<sup>
-				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
-			</sup>
-		</p>
-		<br>
-		<br>
-	</p> -->
+	<img width="350" height="250" src="media/logo.svg" alt="Awesome">
 </div>
 
 <p align="center">
@@ -17,12 +7,6 @@
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 </p>
-
-<br>
-
-<div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
-</div>
 
 
 ## Contents
