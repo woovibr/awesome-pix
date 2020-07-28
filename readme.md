@@ -17,11 +17,11 @@
 - [PIX Presentations] (#pix-presentations)
 - [PIX Legal](#legal)
 
-## PIX Core
+## PIX Core & Official Documentation
 
-- [PIX Home Page] (https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos)
+- [PIX Home Page](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos)
 
-- [Especificações técnicas e de negócio do ecossistema de pagamentos instantâneos brasileiro] (https://www.bcb.gov.br/content/estabilidadefinanceira/forumpireunioes/Documento_de_especificacoes-versao6-2.pdf)
+- [Especificações técnicas e de negócio do ecossistema de pagamentos instantâneos brasileiro](https://www.bcb.gov.br/content/estabilidadefinanceira/forumpireunioes/Documento_de_especificacoes-versao6-2.pdf)
 Versão 6.2 de 23/6/2020
 
 - [Anexo I - Padrões para Iniciação do PIX](https://www.bcb.gov.br/content/estabilidadefinanceira/forumpireunioes/AnexoI-PadroesParaIniciacaodoPix.pdf) 
