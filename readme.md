@@ -46,30 +46,31 @@ Versão 1.0 de 7/4/2020.
 
 - [OpenPix](https://openpix.com.br) - PIX Payments Library
 
+<!--
 ## PIX Front-End Development
-
-
-## PIX Databases
+-->
 
 <!--
+## PIX Databases
+
 - [Database](https://github.com/numetriclabz/awesome-db#readme)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
--->
+
 
 ## PIX Media
 
 
-
 ## PIX Learn
-
+-->
 
 ## PIX Security
 
 - [Anexo IV – Manual de Segurança](https://www.bcb.gov.br/content/estabilidadefinanceira/forumpireunioes/Anexo%20IV%20-%20Manual%20de%20Seguranca%20PIX%20v2.0.pdf)
 
+<!--
 
 ## PIX Hardware
-
+<!--
 
 
 ## Business
@@ -79,7 +80,7 @@ Versão 1.0 de 7/4/2020.
 ## PIX JOBs
 
 
-
+<!--
 ## PIX Events
 
 
@@ -87,7 +88,7 @@ Versão 1.0 de 7/4/2020.
 
 
 ## PIX Books
-
+-->
 
 ## Miscellaneous
 
