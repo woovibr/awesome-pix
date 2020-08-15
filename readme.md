@@ -46,9 +46,9 @@ Versão 1.0 de 7/4/2020.
 
 - [OpenPix](https://openpix.com.br) - PIX Payments Library
 
-<!--
-## PIX Front-End Development
--->
+
+## EMV Standard
+- [EMV QR Cde - EMVCo] https://www.emvco.com/emv-technologies/qrcodes/
 
 <!--
 ## PIX Databases
