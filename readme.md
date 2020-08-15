@@ -48,7 +48,7 @@ Versão 1.0 de 7/4/2020.
 
 
 ## EMV Standard
-- [EMV QR Cde - EMVCo] https://www.emvco.com/emv-technologies/qrcodes/
+- [EMV QR Code](https://www.emvco.com/emv-technologies/qrcodes/)
 
 <!--
 ## PIX Databases
