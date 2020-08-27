@@ -2,15 +2,6 @@
 	<img width="210" height="150" src="media/logo.svg" alt="Awesome">
 </div>
 
-## Contents
-
-- [PIX Core](#pix)
-- [PIX Platforms](#platforms)
-- [PIX Front-End](#pix-front-end-development)
-- [PIX Back-End](#pixback-end-development)
-- [PIX Presentations](#pix-presentations)
-- [PIX Legal](#legal)
-
 ## PIX Core & Official Documentation
 
 - [PIX Home Page](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos)
