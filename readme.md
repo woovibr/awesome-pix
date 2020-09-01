@@ -37,6 +37,8 @@ Versão 1.0 de 7/4/2020.
 
 - [OpenPix](https://openpix.com.br) - PIX Payments Library
 
+## PIX API
+- [Swagger](https://pix-swagger.vercel.app/) - Unofficial API Swagger
 
 ## EMV QR Code Standard
 - [EMV QR Code Definition](https://www.emvco.com/emv-technologies/qrcodes/)
