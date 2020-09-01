@@ -38,8 +38,8 @@ Versão 1.0 de 7/4/2020.
 - [OpenPix](https://openpix.com.br) - PIX Payments Library
 
 
-## EMV Standard
-- [EMV QR Code](https://www.emvco.com/emv-technologies/qrcodes/)
+## EMV QR Code Standard
+- [EMV QR Code Definition](https://www.emvco.com/emv-technologies/qrcodes/)
 - [EMV QR Code Tester](https://openpix.com.br/qrcode/scanner/)
 
 <!--
