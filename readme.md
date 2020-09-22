@@ -38,7 +38,7 @@ Versão 1.0 de 7/4/2020.
 - [OpenPix](https://openpix.com.br) - PIX Payments Library
 
 ## PIX API
-- [Swagger](https://pix-swagger.vercel.app/) - Unofficial API Swagger
+- [Swagger](https://openpix.com.br/api/API-PIX-2-0-0.html) - Unofficial API Swagger - v2.0.0
 
 ## EMV QR Code Standard
 - [EMV QR Code Definition](https://www.emvco.com/emv-technologies/qrcodes/)
@@ -87,11 +87,3 @@ Versão 1.0 de 7/4/2020.
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
-
-## Awesome Related
-
-- [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
-- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
-- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
-- [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
