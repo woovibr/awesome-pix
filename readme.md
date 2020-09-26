@@ -87,3 +87,8 @@ Versão 1.0 de 7/4/2020.
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
+
+## Related contecnt
+
+[How Uber stores financial transactions in ledgers using Amazon DynamoDB](https://www.youtube.com/watch?v=iN6mhI5hFt4)
+
