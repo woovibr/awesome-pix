@@ -38,6 +38,7 @@ Versão 1.0 de 7/4/2020.
 - [OpenPix](https://openpix.com.br) - PIX Payments Library
 
 ## PIX API
+- [API](https://openpix.com.br/api/API-Pix-2-1-0.html) - API Pix Bacen para geração QRCodes / Recebimentos / Auth
 - [Swagger](https://openpix.com.br/api/API-PIX-2-0-0.html) - Unofficial API Swagger - v2.0.0
 
 ## EMV QR Code Standard
