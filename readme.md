@@ -33,6 +33,10 @@ Versão 3.0.0 de 12/6/2020.
 - [Anexo VII: Potenciais ameaças ao DICT e mitigadores](https://www.bcb.gov.br/content/estabilidadefinanceira/forumpireunioes/Anexo%20VII%20-%20Potenciais%20amea%C3%A7as%20ao%20DICT%20e%20mitigadores%20-%20vers%C3%A3o%201.0.pdf)
 Versão 1.0 de 7/4/2020.
 
+## BR Code - Pix Qr Code
+
+- [BR Code Manual](https://www.bcb.gov.br/content/estabilidadefinanceira/SiteAssets/Manual%20do%20BR%20Code.pdf)
+
 ## PIX Platforms
 
 - [OpenPix](https://openpix.com.br) - PIX Payments Library
