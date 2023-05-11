@@ -91,6 +91,7 @@ Versão 1.0 de 7/4/2020.
 
 ## Miscellaneous
 
+- [Gerador de Qr Code Pix](https://www.geradordepix.com) - Ferramenta web para gerar Qr Code Pix estático.
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
 
 ## Related Content
